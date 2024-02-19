@@ -11,7 +11,7 @@ Usa el comando
 ## 🧩 Dependencias
 <h4 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h4>
 
-Descargar los *node modules* 
+** Descargar los *node modules* **
 - *npm install*
   
 Uso de la notificaciones de alerta.
