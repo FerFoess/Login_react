@@ -33,9 +33,9 @@ Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code 
 Para desplejar el proyecto en tu navegador web favorito deberas colocar el siguiente comando
 - ```npm start```
 
+<br>
 
-
-**Una vez hecho estos pasos ya podras implementar codigo en tu proyecto dandole la estructura que se desee**
+<h3> **Una vez hecho estos pasos ya podras implementar codigo en tu proyecto dandole la estructura que se desee** </h3>
 
 <br>
 <br>
