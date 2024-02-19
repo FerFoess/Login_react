@@ -1,12 +1,13 @@
 # LOGIN EN EL FRAMEWORK REACT
 
-## Documentación 
+# Documentación 
 
-## 💻 Crear un nuevo proyecto de react
-En el Visual Studio Code abrir la terminal 
+## 👾 Clonar el Repositorio
+En la terminal git bash usar el siguiente comando
 
-Usa el comando 
-- ```npx create-react-app nombre_del_proyecto```
+```git clone https://github.com/111linblink/AplicacionesWeb.git```
+
+Este comando debe ponerse abriendo el git bash en la carpeta que desees 
 
 ## 🧩 Dependencias
 <h2 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h2>
