@@ -32,9 +32,8 @@ Para desplejar el proyecto en tu navegador web favorito deberas colocar el sigui
 - *npm start*
 
 
-[Una vez hecho estos pasos ya podras implementar codigo en tu proyecto dandole la estructura que se desee]
 
-`Funcionalidad 2`
+`Una vez hecho estos pasos ya podras implementar codigo en tu proyecto dandole la estructura que se desee`
 
 
 
