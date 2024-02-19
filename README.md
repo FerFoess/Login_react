@@ -13,11 +13,12 @@ Implementar el routing
 - *npm install react-router-dom* 
 
 3. Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
+
  Esto para definir el puerto del *JSON Server*
 - *json-server --watch db.json --port 8000*
 
 ## 🌐 Desplejar el proyecto
-- Para desplejar el proyecto en tu navegador web favorito deberas colocar el siguiente comando
+Para desplejar el proyecto en tu navegador web favorito deberas colocar el siguiente comando
 - *npm start*
 
 
