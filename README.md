@@ -4,7 +4,10 @@
 
 ## 💻 Crear un nuevo proyecto de react
 En el Visual Studio Code abrir la terminal 
-- 1. Usa el comando *npx create-react-app nombre_del_proyecto*
+
+Usa el comando 
+- *npx create-react-app nombre_del_proyecto*
+
 ## 🧩 Dependencias
 <h4 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h4>
 
@@ -15,9 +18,10 @@ Uso de la notificaciones de alerta.
 - *npm i react-toastify*
   
 Implementar el routing.
-- *npm install react-router-dom* 
+- *npm install react-router-dom*
 
-3. Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
+
+Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
 
  Esto para definir el puerto del *JSON Server*
 - *json-server --watch db.json --port 8000*
