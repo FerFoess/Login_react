@@ -37,7 +37,8 @@ Para desplejar el proyecto en tu navegador web favorito deberas colocar el sigui
 
 **Una vez hecho estos pasos ya podras implementar codigo en tu proyecto dandole la estructura que se desee**
 
-
+<br>
+<br>
 
 # 🗿 Grupo
 GDS0551
