@@ -6,10 +6,10 @@
 En el Visual Studio Code abrir la terminal 
 
 Usa el comando 
-- *npx create-react-app nombre_del_proyecto*
+- ```npx create-react-app nombre_del_proyecto```
 
 ## 🧩 Dependencias
-<h4 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h4>
+<h2 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h2>
 
 **Descargar los node modules.**
 
