@@ -10,8 +10,10 @@ En el Visual Studio Code abrir la terminal
 
 Descargar los *node modules* 
 - *npm install*
+  
 Uso de la notificaciones de alerta.
 - *npm i react-toastify*
+  
 Implementar el routing.
 - *npm install react-router-dom* 
 
