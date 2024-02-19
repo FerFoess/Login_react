@@ -23,8 +23,9 @@ Implementar el routing.
 
 Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
 
- Esto para definir el puerto del *JSON Server*
 - *json-server --watch db.json --port 8000*
+Esto para definir el puerto del *JSON Server*
+
 
 ## 🌐 Desplejar el proyecto
 Para desplejar el proyecto en tu navegador web favorito deberas colocar el siguiente comando
