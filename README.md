@@ -1,7 +1,7 @@
-## LOGIN EN EL FRAMEWORK DE REACT
+# LOGIN EN EL FRAMEWORK DE REACT
 
-## Documentación 
+# Documentación 
 
-# Crear un nuevo projecto de react
+## Crear un nuevo projecto de react
 
 
