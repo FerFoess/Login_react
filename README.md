@@ -16,22 +16,22 @@ Usa el comando
 - ```npm install```
   
 **Uso de la notificaciones de alerta.**
-- *npm i react-toastify*
+- ```npm i react-toastify```
   
 **Implementar el routing.**
-- *npm install react-router-dom*
+- ```npm install react-router-dom```
 
 
 Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
 
-- *json-server --watch db.json --port 8000*
+- ```json-server --watch db.json --port 8000```
 
 **Esto para definir el puerto del *JSON Server***
 
 
 ## 🌐 Desplejar el proyecto
 Para desplejar el proyecto en tu navegador web favorito deberas colocar el siguiente comando
-- *npm start*
+- ```npm start```
 
 
 
