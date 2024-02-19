@@ -6,7 +6,7 @@
 En el Visual Studio Code abrir la terminal 
 - 1. Usa el comando *npx create-react-app nombre_del_proyecto*
 ## 🧩 Dependencias
-<h4 align="center">2 .Instalar lo siguiente una vez creado el proyecto.</h4>
+<h4 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h4>
 
 - *npm i react-toastify*
 - *npm install react-router-dom*   Esto para implementar el routing
