@@ -13,7 +13,7 @@ Usa el comando
 
 **Descargar los node modules.**
 
-- *npm install*
+- ```npm install```
   
 **Uso de la notificaciones de alerta.**
 - *npm i react-toastify*
@@ -25,6 +25,7 @@ Usa el comando
 Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
 
 - *json-server --watch db.json --port 8000*
+
 **Esto para definir el puerto del *JSON Server***
 
 
