@@ -11,20 +11,21 @@ Usa el comando
 ## 🧩 Dependencias
 <h4 align="center"> 2.Instalar lo siguiente una vez creado el proyecto.</h4>
 
-** Descargar los *node modules* **
+**Descargar los node modules.**
+
 - *npm install*
   
-Uso de la notificaciones de alerta.
+**Uso de la notificaciones de alerta.**
 - *npm i react-toastify*
   
-Implementar el routing.
+**Implementar el routing.**
 - *npm install react-router-dom*
 
 
 Una vez instalado lo anterior deberas abrir otra terminal en Visual Studio Code y colocar lo siguiente
 
 - *json-server --watch db.json --port 8000*
-Esto para definir el puerto del *JSON Server*
+**Esto para definir el puerto del *JSON Server***
 
 
 ## 🌐 Desplejar el proyecto
