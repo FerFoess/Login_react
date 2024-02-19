@@ -1,0 +1,69 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: #628adb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgba(5, 4, 4, 0.292);
+  background: rgb(8, 8, 12);
+}
+
+.App-link {
+  color: #61dafb;
+}
+.errmsg{
+  color: rgb(249, 0, 0);
+  font-size: 60%;
+  text-align: center;
+}
+.header{
+  width: 100%;
+  background-color: rgba(65, 111, 219, 0.719);
+  color: #fff;
+  padding: 1%;
+}
+a{
+  text-decoration: none !important;
+  color: white !important;
+  padding: 2px;
+}
+app-check{
+  height: 20px;
+  width: 20px;
+  margin: 1%;
+}
+.header{
+  width: 100%;
+  background-color: rgba(65, 111, 219, 0.719);
+  color: #000000;
+  padding: 2%;
+  font-weight: 600;
+  background: rgba(35, 41, 104, 0.888);
+  font-size: 100%;
+}
+a{
+  text-decoration: none !important;
+  color: rgb(0, 0, 0) !important;
+  padding: 2px;
+  font-weight: 600;
+}
+
+
+.card{
+  padding: 5%;
+  font-weight: 500;
+}
+
+form{
+  padding: 5%;
+}
+
+h1{
+  padding: 5%;
+}

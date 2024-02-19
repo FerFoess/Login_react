@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": "Fer",
+      "name": "Fernando",
+      "password": "1234"
+    },
+    {
+      "id": "Tania",
+      "name": "TaniaRo",
+      "password": "12345"
+    },
+    {
+      "id": "Brayan",
+      "name": "BrayanGael",
+      "password": "1234"
+    },
+    {
+      "id": "Fer",
+      "name": "Fernando Martínez",
+      "password": "123"
+    },
+    {
+      "id": "Tania",
+      "name": "TaniaRo",
+      "password": "tania123"
+    },
+    {
+      "id": "tania",
+      "name": "Tania",
+      "password": "123"
+    },
+    {
+      "id": "tania",
+      "name": "TaniaRo",
+      "password": "123"
+    },
+    {
+      "id": "fer",
+      "name": "ferny",
+      "password": "123"
+    },
+    {
+      "id": "fer",
+      "name": "ferny",
+      "password": "123"
+    },
+    {
+      "id": "Torres",
+      "name": "Torres Javier",
+      "password": "1234"
+    }
+  ]
+}
